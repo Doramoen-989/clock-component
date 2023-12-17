@@ -1,0 +1,37 @@
+{
+    "title": {
+      "games": "Games",
+      "tools": "Tools",
+      "lessons": "Lessons",
+      "clubs": "Clubs"
+    },
+    "games": {
+      "memoryGames": "Memory Games",
+      "chess": "Chess",
+      "carroms": "Carroms",
+      "cricket": "Cricket",
+      "badminton": "Badminton",
+      "shettle": "Shettle",
+      "football": "Football",
+      "volleyBall": "Volleyball"
+    },
+    "tools": {
+      "programming": "Programming Tools",
+      "design": "Design Tools",
+      "communication": "Communication Tools",
+      "productivity": "Productivity Tools"
+    },
+    "lessons": {
+      "math": "Math Lessons",
+      "language": "Language Lessons",
+      "science": "Science Lessons",
+      "music": "Music Lessons"
+    },
+    "clubs": {
+      "codingClub": "Coding Club",
+      "bookClub": "Book Club",
+      "musicClub": "Music Club",
+      "artClub": "Art Club"
+    }
+  }
+  
